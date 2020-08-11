@@ -6,3 +6,4 @@ G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netcorea
 G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfo.cs
 G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.dll
 G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csprojAssemblyReference.cache
