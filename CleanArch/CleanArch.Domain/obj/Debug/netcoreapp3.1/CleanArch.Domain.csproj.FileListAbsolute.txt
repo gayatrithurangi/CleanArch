@@ -1,0 +1,8 @@
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.deps.json
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.CoreCompileInputs.cache
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfoInputs.cache
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfo.cs
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.dll
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.pdb
