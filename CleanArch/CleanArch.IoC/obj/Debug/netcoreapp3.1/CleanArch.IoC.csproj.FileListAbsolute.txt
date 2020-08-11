@@ -1,0 +1,16 @@
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.IoC.deps.json
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.IoC.dll
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.csprojAssemblyReference.cache
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.AssemblyInfoInputs.cache
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.AssemblyInfo.cs
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.IoC.pdb
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.csproj.CoreCompileInputs.cache
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.csproj.CopyComplete
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.dll
+G:\C#_Basic_Programs\DCA\CleanArch\CleanArch\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.pdb
